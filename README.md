@@ -6,11 +6,11 @@ Get IP address
 
 ### yarn
 
-> yarn add global @jdomzhang/myip
+> yarn add global @edesoft/myip
 
 ### npm
 
-> npm install -g @jdomzhang/myip
+> npm install -g @edesoft/myip
 
 ## Usage
 
