@@ -1,0 +1,12 @@
+{
+  "name": "myip",
+  "version": "1.0.0",
+  "description": "Get current ip",
+  "main": "index.js",
+  "repository": "https://github.com/jdomzhang/myip",
+  "author": "Steven Zhang <jdomzhang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "internal-ip": "^4.1.0"
+  }
+}
