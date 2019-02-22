@@ -7,6 +7,11 @@
   "author": "Steven Zhang <jdomzhang@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "internal-ip": "^4.1.0"
+    "commander": "^2.19.0",
+    "internal-ip": "^4.1.0",
+    "public-ip": "^3.0.0"
+  },
+  "bin": {
+    "myip": "./myip.js"
   }
 }
