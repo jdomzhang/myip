@@ -1,12 +1,8 @@
-#myip
+# myip
 
 Get IP address
 
 ## Installation
-
-### yarn
-
-> yarn add global @edesoft/myip
 
 ### npm
 
