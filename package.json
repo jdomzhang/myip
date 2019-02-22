@@ -1,5 +1,5 @@
 {
-  "name": "myip",
+  "name": "@jdomzhang/myip",
   "version": "1.0.0",
   "description": "Get current ip",
   "main": "index.js",
